@@ -1,2 +1,2 @@
 # ClaseProgramacion
- aja
+ Ejercicios en clase programacion 3d II
