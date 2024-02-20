@@ -1,0 +1,12 @@
+{
+    "nombre_juego": "Juego ScapeRoom",
+    "nombre_jugador": "player1",
+    "nivel": 1,
+    "salud": 100,
+    "correo": "",
+    "playerLocation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
